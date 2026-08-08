@@ -1,7 +1,8 @@
 # stable/live/AetherDraw/manifest.toml
 [plugin]
-repository = "https://github.com/rail2025/AetherDraw.git"
-commit = "da34f19ccd6791cc91370c31b882b570aba16282" 
+repository = "https://github.com/nebel/AetherDraw.git"
+commit = "1b95a0f9a1126384c51f6615336dcff14cc7039b"
 owners = ["rail2025"]
+maintainers = ["nebel"]
 # project_path = "AetherDraw" # Only uncomment and use if your .csproj is NOT at the root of your AetherDraw repo
-changelog = "v7.55.0.0: assets converted to webp, smaller install size"
+changelog = "v7.6.0.0: Revert to v7.5.0.1"
